@@ -3,6 +3,7 @@ import datetime
 import calendar
 import time
 
+
 diretorio_atual = os.getcwd()
 print("Diretório atual:", diretorio_atual)
 
